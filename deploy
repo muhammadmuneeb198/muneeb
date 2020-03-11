@@ -1,4 +1,3 @@
 hostname
-ifconfig 
 netstat -v
 hostname
